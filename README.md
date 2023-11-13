@@ -3,4 +3,5 @@ Tugas Pemerosesan Paralel SK5B Unsri 2023
 - M. Rafie Al Hamas
 - 09011182126018
 
-1. Tugas mengenai Ubuntu Server dan juga putty disertai dengan wordpress
+# Pemrosesan paralel
+- Ubuntu Server dan juga putty disertai dengan wordpress
