@@ -5,3 +5,5 @@ Tugas Pemerosesan Paralel SK5B Unsri 2023
 
 # Pemrosesan paralel
 - Ubuntu Server dan juga putty disertai dengan wordpress
+- MPI Bubblesort dan Numerik
+- 
